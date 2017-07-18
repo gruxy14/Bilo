@@ -1,2 +1,2 @@
-# Biolo
+# Bilo
 Social news app
